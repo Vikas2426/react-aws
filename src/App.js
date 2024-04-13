@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          VIkas Choubey
+          Vikas Choubey
         </a>
       </header>
     </div>
