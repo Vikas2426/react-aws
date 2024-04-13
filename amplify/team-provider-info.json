@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:ap-south-1:927076617449:stack/amplify-amplifydba06eef66a14-staging-43ae9/7a594f60-f974-11ee-806d-026ec679fd2f",
       "AmplifyAppId": "d21pbpq86uv6ax"
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactaws-dev-accf7-authRole",
+      "UnauthRoleArn": "arn:aws:iam::927076617449:role/amplify-reactaws-dev-accf7-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::927076617449:role/amplify-reactaws-dev-accf7-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-reactaws-dev-accf7-deployment",
+      "UnauthRoleName": "amplify-reactaws-dev-accf7-unauthRole",
+      "StackName": "amplify-reactaws-dev-accf7",
+      "StackId": "arn:aws:cloudformation:ap-south-1:927076617449:stack/amplify-reactaws-dev-accf7/ad77e890-f9a9-11ee-806d-026ec679fd2f",
+      "AmplifyAppId": "d21pbpq86uv6ax"
+    },
+    "categories": {
+      "auth": {
+        "reactaws97d88a1a": {}
+      }
+    }
   }
 }
